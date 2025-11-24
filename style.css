@@ -18,7 +18,6 @@ body{
     overflow: hidden;
     padding: 20px;
     background-color: hsl(216, 50%, 16%);
-    background-image: url(images/icon-view.svg);
 }
 .tag{
     color: white;
