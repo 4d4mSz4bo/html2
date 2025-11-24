@@ -1,0 +1,34 @@
+* {
+box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+}
+body{
+    background-color: hsl(215, 51%, 70%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kartya{
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 8px 0px hsl(215, 32%, 27%);
+    width: 450px;
+    height: 500px;
+    overflow: hidden;
+    padding: 20px;
+    background-color: hsl(216, 50%, 16%);
+    background-image: url(images/icon-view.svg);
+}
+.tag{
+    color: white;
+}
+.csavokep
+.cigan{
+    flex: auto;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ETH{
+    color: hsl(178, 100%, 50%);
+}
